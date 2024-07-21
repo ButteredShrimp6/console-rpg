@@ -1,0 +1,8 @@
+1/Mona/100/Adventurer/Lance/5/5/5/0
+2/Aaliyah/94/Adventurer/Lance/6/8/5/0
+1/Jake/100/Barbarian/Axe/7/6/3/3
+3/Ada/96/Adventurer/Lance/7/15/5/0
+3/Eah/94/Archaeologist/Axe/5/15/7/0
+3/Nikka/91/Archaeologist/Lance/4/16/7/1
+2/Raiden/91/Adventurer/Lance/5/11/5/3
+1/Galian/100/Archaeologist/Lance/4/5/8/2
